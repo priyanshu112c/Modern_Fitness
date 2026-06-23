@@ -1,4 +1,5 @@
 🏋️ Modern Fitness Website - Complete
+Website Link - https://comfy-zabaione-b5aee3.netlify.app/
 📄 7 Pages Built:
 Home — Full-screen parallax hero with animated 3D elements (floating dumbbells/flames), animated stats counters, flip-card "Why Choose Us" section, 6-service preview grid, auto-rotating testimonial carousel, and CTA banner
 
